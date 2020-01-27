@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Client side routing is efficient, because rather than reloading the whole page when part of the content changes, it only needs to re render the one section that has changed. This is especially useful on larger websites. It also helps with keeping things consistent, and it gives the illusion of having a multi page website when its still technically a single page application.
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
